@@ -46,7 +46,7 @@ number when it is part of the title; `status` is `unknown` for Acts.
 * **Constitutional amendments are not incorporated**: the Transitional Constitution has been amended several times
   (2013, 2015, 2018 — incorporation of the peace agreements — and later extensions of the transitional period);
   only the 2011 text is published here.
-* Only the ~70 Acts that the MoJCA put online are covered (mostly 2006–2013); Acts passed after 2013 (except the
+* Only the Acts that the MoJCA put online (62 converted) are covered (mostly 2006–2013); Acts passed after 2013 (except the
   National Security Service Act 2014 and the Labour Act 2017) are missing.
 * 5 PDFs are scans without a text layer and were not converted (no OCR): Investment Promotion Act 2009, Judicial
   Service Council Act 2008, Local Government Act 2009, NGO Act Regulations 2016, SPLA (Amendment) Act 2009.
